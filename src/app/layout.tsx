@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nodebase",
+  title: "Zapier",
   description: "zapier by ssamyyy",
 };
 
